@@ -6,4 +6,4 @@ echo a=${a}
 DATE=$(date +%F)
 echo Today date = ${DATE}
 arth=$((2+4-8/10))
-arth=${arth}
+echo arth=${arth}
