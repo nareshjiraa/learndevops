@@ -3,5 +3,5 @@ name=devops
 
 echo name=${name}
 echo a=${a}
-Date=$(data +%F)
+Date=$(date +%F)
 Today dat = ${Date}
