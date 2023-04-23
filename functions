@@ -1,0 +1,6 @@
+
+funtion_name() {
+echo hello world!
+}
+
+funtion_name
