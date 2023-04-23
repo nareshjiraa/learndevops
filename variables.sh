@@ -12,10 +12,10 @@ echo ${script_path}
 
 
 echo script name - $0
-first argument- $1
-second argument - $2
-all arg - $*
-num arg - $#
+echo first argument- $1
+echo second argument - $2
+echo all arg - $*
+echo num arg - $#
 
 
 
