@@ -3,6 +3,7 @@ fruit_name=$1
 quantity=$2
 if [ -z "$fruit_name" ]; then
   echo Input Missing
+  exit
 fi
 
 
